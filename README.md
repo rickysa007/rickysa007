@@ -1,4 +1,4 @@
-## Astrophysics PhD student working on ISM!
+## Astrophysics PhD student working on Instellar Medium!
 <!--
 **rickysa007/rickysa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
